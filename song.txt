@@ -13,7 +13,10 @@ No reason to get excited
 The thief, he kindly spoke
 There are many here among us
 Who feel that life is but a joke
+<<<<<<< HEAD
 But, uh, but you and I, we've been through that
 And this is not our fate
 So let us stop talkin' falsely now
 The hour's getting late, hey
+=======
+>>>>>>> 071b2c601cee9f9486616154d042e0d1487ba0d4
